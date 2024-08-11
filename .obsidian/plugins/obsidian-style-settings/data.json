@@ -1,4 +1,6 @@
 {
   "sanctum@@active-line-accent": "transparent",
-  "sanctum@@aside-counter": false
+  "sanctum@@aside-counter": false,
+  "sanctum@@hide-vault-title": false,
+  "sanctum@@wrap-nav-titles": false
 }
