@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1.md",
+                "file": "sigdigs.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1.md",
+                "file": "sigdigs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1.md"
+                "file": "sigdigs.pdf"
               }
             }
           }
@@ -179,10 +179,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "015173fbbac7c8bd",
+  "active": "74dbc8e74e75f1f8",
   "lastOpenFiles": [
-    "sigdigs.pdf",
     "C1.md",
+    "sigdigs.pdf",
     "index.md",
     "Welcome.md"
   ]
