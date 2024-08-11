@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "de6aeb1a6fad11da",
@@ -97,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c386ad5b93dc5cbe",
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "C1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "C1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "C1.md"
               }
             }
           }
@@ -175,10 +177,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "1f07ded1cb530dee",
+  "active": "015173fbbac7c8bd",
   "lastOpenFiles": [
-    "C1.md",
     "index.md",
+    "C1.md",
     "sigdigs.pdf",
     "Welcome.md"
   ]
