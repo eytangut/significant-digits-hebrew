@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C1.md",
+                "file": "פרק 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c386ad5b93dc5cbe",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C1.md",
+                "file": "פרק 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C1.md",
+                "file": "פרק 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C1.md"
+                "file": "פרק 1.md"
               }
             }
           }
@@ -179,7 +178,7 @@
   "active": "1f07ded1cb530dee",
   "lastOpenFiles": [
     "index.md",
-    "C1.md",
+    "פרק 1.md",
     "sigdigs.pdf",
     "Welcome.md"
   ]
