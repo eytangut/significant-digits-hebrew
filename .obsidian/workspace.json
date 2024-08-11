@@ -6,6 +6,7 @@
       {
         "id": "5b735e5adc828c90",
         "type": "tabs",
+        "dimension": 58.78016085790885,
         "children": [
           {
             "id": "1f07ded1cb530dee",
@@ -37,6 +38,7 @@
       {
         "id": "de6aeb1a6fad11da",
         "type": "tabs",
+        "dimension": 41.21983914209115,
         "children": [
           {
             "id": "74dbc8e74e75f1f8",
@@ -115,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sigdigs.pdf",
+                "file": "C1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sigdigs.pdf",
+                "file": "C1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sigdigs.pdf"
+                "file": "C1.md"
               }
             }
           }
@@ -177,10 +179,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "74dbc8e74e75f1f8",
+  "active": "015173fbbac7c8bd",
   "lastOpenFiles": [
-    "C1.md",
     "sigdigs.pdf",
+    "C1.md",
     "index.md",
     "Welcome.md"
   ]
